@@ -1,0 +1,32 @@
+{
+  "author": "psirenny <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/fluent-validator/issues"
+  },
+  "dependencies": {
+    "chain": "*",
+    "validator": "*"
+  },
+  "description": "Wrap node-validator in a fluent interface.",
+  "keywords": [
+    "chain",
+    "fluent",
+    "interface",
+    "node",
+    "validate",
+    "validation",
+    "validator"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "fluent-validator",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/psirenny/fluent-validator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.0"
+}
